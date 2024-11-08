@@ -79,7 +79,7 @@
           {
             title: "Mastering Strategy and Teamwork",
             content:
-              "Develop a deep understanding of the game mechanics, including its strengths, weaknesses, and meta. Learn to communicate effectively with your team, sharing information and coordinating strategies to achieve common goals.Analyze your opponents' strengths and weaknesses to develop counter-strategies.Practice teamwork and coordination to execute complex strategies and maneuvers.",
+              "Develop a very deep understanding of the game mechanics, including its strengths, weaknesses, and meta. Learn to communicate effectively with your team, sharing information and coordinating strategies to achieve common goals.Analyze your opponents' strengths and weaknesses to develop counter-strategies.Practice teamwork and coordination to execute complex strategies and maneuvers.",
           },
           {
             title: "Improving Your Skills",
