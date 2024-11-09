@@ -16,7 +16,9 @@
       />
   
       <PopularGame />
-  
+
+      <PastEvents />
+
       <ContactBanner :paddingTop="paddingTop" />
   
       <Footer />

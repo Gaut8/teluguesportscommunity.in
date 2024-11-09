@@ -14,6 +14,8 @@
         :BreadcrumbTitle="BreadcrumbTitle"
         :BreadcrumbSubTitle="BreadcrumbSubTitle"
       />
+
+      <LiveStream />
   
       <PopularGame />
   

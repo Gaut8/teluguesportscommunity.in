@@ -15,14 +15,17 @@
         :BreadcrumbTitle="BreadcrumbTitle"
         :BreadcrumbSubTitle="BreadcrumbSubTitle"
       />
-      <ContactBanner :paddingTop="paddingTop" />
 
+      <eventsupcoming />
+
+      <ContactBanner :paddingTop="paddingTop" />
 
       <Footer />
     </div>
   </template>
   
   <script>
+
 
   export default {
     components: {
@@ -33,6 +36,7 @@
       ContactBanner: () => import("@/components/ContactBanner"),
       Footer: () => import("@/components/Footer"),
       UpcomingMatches: () => import("@/components/UpcomingMatches")
+ 
 
     },
     data() {

@@ -84,7 +84,7 @@
           {
             title: "Improving Your Skills",
             content:
-              "   Set realistic and specific goals for improvement, breaking them down into smaller, achievable milestones.Create a consistent and balanced practice schedule, allowing for regular breaks and self-care.Track and review your progress, identifying areas for improvement and adjusting your strategy accordingly.Seek feedback and criticism from coaches, teammates, and experienced players to refine your skills.Experiment with different strategies and playstyles to find your edge.",
+              "To improve your esports skills, set specific goals, create a consistent practice schedule, and track your progress. Seek feedback from coaches and experienced players, and experiment with new strategies to find your edge.",
           },
           {
             title: "Maintaining Physical and Mental Health",
@@ -94,7 +94,7 @@
           {
             title: "Developing a Growth Mindset in Esports",
             content:
-              " A growth mindset is essential for esports players to adapt to the ever-changing landscape of competitive gaming. To cultivate a growth mindset, focus on embracing challenges, focusing on progress, not perfection, adapting to change, embracing feedback, and staying curious. This involves reflecting on your performance, setting specific and achievable goals, seeking out diverse perspectives, and staying positive and resilient. By adopting a growth mindset, you'll be better equipped to learn from failures, stay motivated, and continuously improve your skills, ultimately leading to success in the competitive gaming world.",
+              " To cultivate a growth mindset, focus on embracing challenges and focusing on progress, not perfection, adapting to change and embracing feedback, staying curious and reflecting on your performance, setting specific and achievable goals, and seeking diverse perspectives while staying positive and resilient. ",
           },
         ],
       };

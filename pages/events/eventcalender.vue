@@ -16,6 +16,8 @@
       />
   
       <PopularGame />
+
+      <EventCalender />
   
       <ContactBanner :paddingTop="paddingTop" />
   
